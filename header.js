@@ -18,6 +18,7 @@ function loadHeader(activePage = '') {
                 <ul class="nav">
                     <li><a href="about.html" class="${activePage === 'about' ? 'active' : ''}">About</a></li>
                     <li><a href="https://aclanthology.org/2022.eurali-1.18/" target="_blank">Research Paper</a></li>
+                    <li><a href="https://huggingface.co/collections/collectivat/ladino-data-hub-68e3ea984627ccf32a78f340" target="_blank">Hugging Face Collection</a></li>
                 </ul>
             </nav>
         </div>
