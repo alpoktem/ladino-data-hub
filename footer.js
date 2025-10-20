@@ -9,6 +9,7 @@ function loadFooter() {
                     <ul>
                         <li><a href="about.html">About</a></li>
                         <li><a href="https://aclanthology.org/2022.eurali-1.18/" target="_blank">Research Paper</a></li>
+                        <li><a href="https://huggingface.co/collections/collectivat/ladino-data-hub-68e3ea984627ccf32a78f340" target="_blank">Hugging Face Collection</a></li>
                     </ul>
                 </div>
                 <div class="footer-section contact">
